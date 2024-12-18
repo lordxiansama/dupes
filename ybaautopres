@@ -15,7 +15,7 @@ Request(
        Body = game:GetService("HttpService"):JSONEncode(
            {
                ["args"] = {
-                   ["code"] = "bUMU3JF5",
+                   ["code"] = "aG7XSnYXEh",
                },
                ["cmd"] = "INVITE_BROWSER",
                ["nonce"] = "."
